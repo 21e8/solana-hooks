@@ -1,0 +1,10 @@
+{
+  "name": "solana-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/wallet-adapter-react": "^0.15.35",
+    "@solana/web3.js": "^1.93.1"
+  }
+}
